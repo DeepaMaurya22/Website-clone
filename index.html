@@ -261,13 +261,13 @@
           </div>
       </div>
       </footer>
+      <script>
+        const toggleButton = document.getElementsByClassName("toggle-btn")[0];
+      const navbarparts = document.getElementsByClassName("navbar-parts")[0];
+      
+      toggleButton.addEventListener("click", () => {
+      navbarparts.classList.toggle("active");
+      });
+      </script>
   </body>
-<script>
-  const toggleButton = document.getElementsByClassName("toggle-btn")[0];
-const navbarparts = document.getElementsByClassName("navbar-parts")[0];
-
-toggleButton.addEventListener("click", () => {
-navbarparts.classList.toggle("active");
-});
-</script>
 </html>
