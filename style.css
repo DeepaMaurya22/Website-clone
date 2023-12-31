@@ -10,7 +10,7 @@
   height: 100%;
   padding: 0 3rem 3rem 3rem;
   background-size: 100% 100%;
-  background-image: url(img/background.png);
+  background-image: url(assets/background.png);
 }
 .hero {
   max-width: 90%;
@@ -198,7 +198,7 @@
   align-items: center;
   justify-content: center;
   grid-template-columns: 60% 40%;
-  background-image: url(img/background.png);
+  background-image: url(assets/background.png);
 }
 .bg-card p {
   line-height: 2;
