@@ -22,9 +22,9 @@ This repository contains my first attempt at creating a website clone, inspired 
 2. Open the `index.html` file in your web browser.
 
 ## Screenshots
-![Homepage](assets/infiheal-1.png)
-![Section 1](assets/infiheal-2.png)
-![Section 2](assets/infiheal-4.png)
-![Testimonial](assets/infiheal-5.png)
+![Homepage](./assets/infiheal-1.png)
+![Section 1](./assets/infiheal-2.png)
+![Section 2](./assets/infiheal-4.png)
+![Testimonial](./assets/infiheal-5.png)
 
 Feel free to explore the code and provide feedback. This project marks the beginning of my web development journey, and I look forward to improving and expanding my skills in future projects.
